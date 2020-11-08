@@ -1,3 +1,6 @@
 [submodule "food"]
 	path = food
 	url = https://github.com/rodrieja/udemy-react-native-food.git
+[submodule "blog"]
+	path = blog
+	url = https://github.com/rodrieja/udemy-react-native-blog.git
